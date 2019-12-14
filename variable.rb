@@ -3,5 +3,4 @@
 
 
 
-variable = "greeting"
-puts "#{variable}"
+vari = "greeting"

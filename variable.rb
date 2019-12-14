@@ -3,5 +3,5 @@
 
 
 
-variable = "World"
-puts "Hello  #{variable}"
+variable = "greeting"
+variable = "Hello World"

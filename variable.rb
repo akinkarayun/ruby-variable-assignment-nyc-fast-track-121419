@@ -3,5 +3,5 @@
 
 
 
-variable = "greeting"
+variable = "Hello World"
 puts "Hello World"

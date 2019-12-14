@@ -4,4 +4,4 @@
 
 
 variable = "Hello World"
-puts "Hello World"
+puts "#{variable}"
